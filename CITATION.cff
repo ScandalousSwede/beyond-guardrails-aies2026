@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the non-archival AIES 2026 paper using preferred-citation.
+  This repository contains its publication page and camera-ready PDF.
+title: "Beyond Guardrails — AIES 2026 publication repository"
+authors:
+  - family-names: Gillese
+    given-names: Ethan
+repository-code: "https://github.com/ScandalousSwede/beyond-guardrails-aies2026"
+url: "https://scandalousswede.github.io/beyond-guardrails-aies2026/"
+preferred-citation:
+  type: conference-paper
+  title: "Beyond Guardrails: Dual Failure Modes in LLM Safety as Inverse Control-System Errors"
+  authors:
+    - family-names: Gillese
+      given-names: Ethan
+  year: 2026
+  conference:
+    name: "AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)"
+    location: "Malmö, Sweden"
+    date-start: "2026-10-12"
+    date-end: "2026-10-14"
+  notes: "Non-archival conference paper; submission 908; public camera-ready version."
+  url: "https://scandalousswede.github.io/beyond-guardrails-aies2026/"
